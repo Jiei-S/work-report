@@ -13,5 +13,5 @@ $ pipenv install
 - ChromeDriver  
 https://chromedriver.chromium.org/downloads
 
-- LINE Notify
+- LINE Notify  
 https://notify-bot.line.me/ja/
